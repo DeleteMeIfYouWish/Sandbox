@@ -15,4 +15,5 @@
       </plugin>
     </plugins>
   </build>
+  <name>Sandbox</name>
 </project>

@@ -16,4 +16,5 @@
     </plugins>
   </build>
   <name>Sandbox</name>
+  <description>Yadda yadda</description>
 </project>
